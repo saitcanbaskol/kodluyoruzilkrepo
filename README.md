@@ -15,7 +15,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 # Resimler
-[Test Resim](testpng.png)
+![testpng](https://user-images.githubusercontent.com/63407682/130322688-cb3462db-b15a-4fd0-8721-ddfdb10e94b5.png)
+
 
 
 
